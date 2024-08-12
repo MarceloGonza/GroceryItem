@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  background: black;
+}
+
+button {
+  margin: 20px;
+  padding: 5px;
+  font-size: 40px;
+  background-color: darkgoldenrod;
+  color: aliceblue;
+}
